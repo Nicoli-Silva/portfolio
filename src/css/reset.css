@@ -1,0 +1,19 @@
+*{
+    margin: 0; /*margem padrão dos navegadores*/
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box; /*faz com que o padding e a borda sejam incluídos na largura e altura do elemento*/
+}
+a{
+    text-decoration: none; /*remove o sublinhado dos links*/
+    color: #fff; /*herda a cor do elemento pai*/
+}
+
+ul{
+    list-style: none; /*remove os marcadores das listas*/
+}
+
+img{
+    max-width: 100%; /*faz com que a imagem não ultrapasse a largura do elemento pai*/
+}
