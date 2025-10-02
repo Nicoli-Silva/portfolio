@@ -251,3 +251,18 @@ body {
     }
 
 }
+
+footer {
+  text-align: center;
+  padding: 15px;
+  color: #fff;
+  font-size: 14px;
+}
+footer a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+footer a:hover {
+  color: #ff4081; /* muda a cor no hover */
+}
