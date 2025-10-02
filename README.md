@@ -1,5 +1,3 @@
-🌟 Portfólio - Nic
-
 
 # 🌟 Portfólio — Nicoli Silva
 
